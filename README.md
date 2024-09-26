@@ -1,3 +1,5 @@
+## This is my first project using the docker and AWS 
+
 ## Prerequisites
 - JDK 1.8 or later
 - Maven 3 or later
